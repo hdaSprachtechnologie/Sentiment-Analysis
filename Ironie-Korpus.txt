@@ -1,0 +1,680 @@
+#Sentiment-Analyse-Korpus ironische und nicht ironische Tweets zum Thema Fußball
+#zusammengestellt von Katharina Emig, Nikola Ihringer, Serhat Kesim und Tamer Yilmaz
+#im Rahmen eines Master-Seminars "Opinion Mining" von Melanie Siegel, im SS 2017 an der Hochschule Darmstadt
+
+#Für jeden Tweet wurde mit Textblob und danach manuell von den Studierenden die Polarität bestimmt
+
+-----------------------
+# Opinion Mining - Korpus - Ironische Tweets
+
+Muss sich der @DFB nach den Pyros bei #sgebvb als Veranstalter jetzt eigentlich selbst bestrafen?  🤔  #dopa
+Textblob: -0.5
+Manuell: negativ
+
+@DFB_Team gratuliert Arsenal, aber nicht der Borussia - genau mein Humor. Nicht. #DFBPokal #SGEBVB
+Textblob: 0.0
+Manuell: negativ
+
+#SGEBVB #HeleneFischer Hätte nie gedacht, dass Fußballfans so musikalisch sind.Da waren ja die Pfiffe melodischer!
+Textblob: 1.0
+Manuell: negativ
+
+Auch mit Holzhammer-Reimen wie "Leben" auf "-leben" kann man ein millionenschwerer Schlagerstar werden. Interessant. #SGEBVB #DFBPokal
+Textblob: 0.3333333333333333
+Manuell: negativ
+
+Wenn Helene Fischers Auftritt ein Symbol der Kommerzialisierung sein soll, dann ist #Waldi das Symbol des Schlankheitswahn. #SGEBVB #dopa
+Textblob: 0.0
+Manuell: negativ, neutral
+
+Helene Fischer ins Programm aufnehmen und sich dann über die Pyroshow aufregen. Hat der #DFB noch nie ein Konzert besucht? #SGEBVB
+Textblob: -0.3333333333333333
+Manuell: negativ
+
+Was ich mich frage: Sind d. Verlierer eigentlich vertraglich dazu verpflichtet,sich immer so theatralisch zu Boden fallen zu lassen? #SGEBVB
+Textblob: 0.07500000000000001
+Manuell: negativ
+
+Das beste am heutigen Abend ist, dass sich die Schalker hier nach ihrem offiziellen Glückwunsch selbst zerfleischen #SGEBVB #s04 #DFBPokal
+Textblob: 0.0
+Manuell: negativ, positiv
+
+
+
+
+Bierdusche. Geil. #SGEBVB
+Textblob: 0.2333333333333333
+Manuell: positiv, negativ
+
+Habt ihr schon gehört, beim Konzert von Helene Fischer treten Spieler von Eintracht Frankfurt und dem BVB auf. #Pokalfinale
+Textblob: 0.0
+Manuell: negativ, neutral
+
+Stell' ich mir ziemlich lästig vor, als #AfD Anhänger beim #Pokalfinale immer wegzuschauen, wenn ein Ausländer am Ball ist.
+Textblob: 0.0
+Manuell: negativ
+
+Mein Highlight beim #dfbpokalfinale waren die Pfiffe "für" Helene Fischer. #SGEBVB
+Textblob: 0.0
+Manuell: negativ, positiv
+
+#Reus verletzt? Als nächstes erzählt mir noch jemand das morgen die Sonne aufgeht... *gähn* #SGEBVB #dfbpokalfinale #DFBPokal
+Textblob: -0.5
+Manuell: negativ
+
+Nichts gegen  #HeleneFischer. Ich fand sie ja heute mit Mute-Taste & Videotext sehr gut erträglich.  Danke, @ARD & Shize-#DFB  #SGEBVB
+Textblob: 0.3333333333333333
+Manuell: negativ
+
+
+"Dopingkontrolle? Das braucht kein Mensch! "Na dann ist ja gut. #SGEBVB #DFBPokal #dfbpokalfinale
+Textblob: 0.25
+Manuell: negativ
+
+Ist ja eine richtige Partytruppe im @sportschau-Club Studio  😝  #SGEBVB #DfbPokalfinale
+Textblob: 0.0
+Manuell: negativ
+
+"Doping-Kontrolle, das braucht doch eigentlich kein Mensch" - Weltklasse-Aussage, #Schmelzer #SGEBVB #BVB
+Textblob: 0.0
+Manuell: negativ
+
+
+Rammstein wird wohl nie in einem Pokalfinale auftreten. Der DFB steht ja nicht so auf Pyro. Schade. #SGEBVB
+Textblob: -0.25
+Manuell: negativ
+
+Sicherheitskontrollen haben nichts geholfen - #HeleneFischer hat es trotzdem bis ins Stadion geschafft! #SGEBVB #DFBPokal
+Textblob: 0.0
+Manuell: negativ
+
+Da hat der #Bvb aber mal die größten Stimmungskanonen zum #sportschauclub geschickt... #SGEBVB #DFBPokal #dfbpokalfinale
+Textblob: 0.0
+Manuell: negativ
+
+stell dir vor du hast gerade das #dfbpokalfinale gewonnen und darfst zur feier erstmal in den #sportschauclub. da kommt freude auf #sgebvb
+Textblob: 0.5
+Manuell: negativ, positiv
+
+In der Halbzeitpause des Helene Fischer Konzerts hat der BVB den Pokal gewonnen. Schwerpunktsetzung des Sportschau Clubs voll ok. #SGEBVB
+Textblob: 0.0
+Manuell: negativ, positiv
+
+Keine GoPro am Pokal? Ich bin entäuscht. #SGEBVB #Pokalfinale
+Textblob: 0.0
+Manuell: negativ
+
+Wie süß die im Sportschau Club denken es wurde gepfiffen, weil Helene angeblich BVB Fan ist! #sportschauclub #SGEBVB
+Textblob: -0.5
+Manuell: negativ 
+
+"Ein bisschen Kreuzband..." Na herzlichen Glückwunsch. #Reus #SGEBVB #BVB #DFBCupFinal #DFBPOKAL
+Textblob: 0.5
+Manuell: negativ
+
+"Vielleicht ein bisschen Kreuzband!" - Tolle Aussage @woodyinho  😳  😳 #SGEBVB
+Textblob: 0.0
+Manuell: negativ
+
+
+Deshalb ist er der Fußballgott! Auf die erste Interviewfrage erstmal mit "Wie gesagt" antworten. Stark, Alex Meier! #SGEBVB #DFBPokal
+Textblob: 0.175
+Manuell: negativ
+
+Joa. Einen der erfolgreichsten Trainer und Pokalsieger entlassen...Da muss sich Watzke aber einen sehr romantischen Text ausdenken :)#SGEBVB
+Textblob: -0.35
+Manuell: negativ, positiv
+
+"..hat den entscheidenden Elfer rausgeholt.."Ist ja auch so eine große Leistung, gefoult zu werden.ManManMan. #SGEBVB #dfbpokalfinale
+Textblob: 0.0
+Manuell: negativ
+
+Und Watzke guckt, als wäre seine Familie gestorben... muss ja n richtiger Sympath sein #sgebvb
+Textblob: 0.0
+Manuell: negativ
+
+Kanonenschläge zur Feier des BVB. Hat sich ein ganz schlauer Kopf ausgedacht. #sgebvb
+Textblob: 0.0
+Manuell: negativ
+
+Kompliment an die Organisatoren. Eine Siegerehrung bei der null Emotionen rüberkommen. Das bekommt nicht jeder hin. #SGEBVB #DFBPokal
+Textblob: 0.0
+Manuell: negativ
+
+Super! Wieder ein wichtiges Spiel vom Schiedsrichter entschieden. Läuft im deutschen Fußball. #DFBPokal #SGEBVB
+Textblob: 0.425
+Manuell: negativ
+
+"Was geht #Watzke durch den Kopf?" Der freut sich, sieht man doch! #SGEBVB
+Textblob: 0.3333333333333333
+Manuell: negativ
+
+"Hey, lasst uns die Verlierer mit deprimierender Musik noch enttäuschter machen!" "Geile Idee!"Der @DFB so. #SGEBVB
+Textblob: 0.0
+Manuell: negativ
+
+
+Großartig.Da gewinnst du den #DFBPokal und während der Ehrung wird dir "Human" um die Ohren geschlagen. #SGEBVB #dfbpokalfinale
+Textblob: 0.5
+Manuell: negativ
+
+Sinnlose Pfiffe für den Schiri von schlechten Verlierern dürfen natürlich auch nicht fehlen! #SGEBVB
+Textblob: 0.0
+Manuell: negativ
+
+#DFBPokal boah das Finale war fast so spannend wie Gras beim wachsen zu zuschauen #sgebvb
+Textblob: 0.7
+Manuell: negativ
+
+Bei seinem Geschrei bin ich mir nicht sicher. Hat jetzt Borussia Dortmund oder Steffen Simon den DFB-Pokal gewonnen? #DFBPokal #SGEBVB
+Textblob: 0.21666666666666667
+Manuell: negativ
+
+"Sicherheitskontrolle am Eingang? Wie jetzt? Sowas braucht man?" #SGEBVB
+Textblob: 0.0
+Manuell: negativ
+
+Dass da wieder alles voller gelber Pyro ist, zeigt, wie toll diese verschärften Sicherheitskontrollen gelaufen sind. Ganz toll...  😠  #sgebvb
+Textblob: 1.0
+Manuell: negativ
+
+In der Stadt und am Stadion zusammen zu feiern und sich dann drinnen als „Hurensöhne“ zu beschimpfen, muss diese Folklore sein. #sgebvb
+Textblob: -0.07500000000000001
+Manuell: negativ
+
+Wie kann man überhaupt Pyro bei den Ereignissen der letzten Monate reinschmuggeln? Gute Kontrollen... #SGEBVB
+Textblob: 0.5
+Manuell: negativ
+
+Die Pfiffe hatten natürlich absolut gar nichts mit Helene Fischer zu tun, denn die liebt ja jeder. :) #Professionelle #SportschauClub
+Textblob: 0.0
+Manuell: negativ
+
+
+Besonders gefallen haben mir die Fischer-Chöre in der Pause. #dfbpokalfinale #SGEBVB #sportschauclub
+Textblob: 0.0
+Manuell: negativ
+
+Die 5fünf gelben waren ja lustig und so unterhaltsam. Gähn #SportschauClub
+Textblob: 0.5
+Manuell: negativ
+
+stell dir vor du hast gerade das #dfbpokalfinale gewonnen und darfst zur feier erstmal in den #sportschauclub. da kommt freude auf #sgebvb
+Textblob: 0.5
+Manuell: negativ
+
+Stell dir vor es ist Finale und die Bayern sitzen vor der Glotze. Das nennt man dann wohl Finale dahoam
+Textblob: 0.0
+Manuell: negativ
+
+Für eine der beiden Mannschaften singt Helene Fischer gleich ihr Lied "Beim Träumen ist alles erlaubt..."
+Textblob: 1.0
+Manuell: negativ, positiv
+
+aytekin ist der einzige, der die nationalhymne singt. alle besorgten buerger sollten jetzt in eine komplette sinnkriese stuerzen.
+Textblob: 0.0
+Manuell: negativ 
+
+Helene beim Tatort, Helene beim #GNTMFinale, Helene bei Tshibo, Helene beim #DFBPokal Trau mich gar nicht den Klodeckel aufzumachen…
+Textblob: 0.0
+Manuell: negativ
+
+Reus könnte so ein begnadeter Fußballspieler sein wenn er nicht das Muskelfleisch eines Gummibärchen hätte. #BVBSGE #DFBPokal
+Textblob: 0.0
+Manuell: negativ
+
++ + + BREAKING + + + IS bekennt sich zu Helene Fischer Auftritt bei DFB Pokalfinale! #SGEBVB #DFBPokal
+Textblob: 0.35
+Manuell: negativ
+
+
+Helene Fischer singt Samstag ein Medley ihrer größten Hits...Also Atemlos in Dauerschleife?#dfbpokal
+Textblob: 0.0
+Manuell: negativ
+
+Gell liebe #Uefa, Pyro ist schon geil.
+Textblob: 0.85
+Manuell: negativ, positiv
+
+Bei so ner Siegerehrung gefährdet man plötzlich keine Kinder mehr durch Rauch.#UCLfinal #JUVRMA
+Textblob: 0.0
+Manuell: negativ
+
+Zuschauen,wie die Schmierlappen von Real den CL Sieg feiern? Macht mehr Spass,sich nen rostigen Nageln ins Auge zu rammen. #UCLfinal #JUVRMD
+Textblob: 0.2833333333333333
+Manuell: negativ
+
+Hui. Ramos kommt wohl nicht um eine Amputation herum. Herrje. #UCLfinal #JUVRMA
+Textblob: 0.0
+Manuell: negativ
+
+Ist es unter dem geschlossenen Dach eigentlich warm? Ich glaube der ZDF-Kommentator hat das fast gar nicht erwähnt. #UCLfinal #JUVRMA
+Textblob: 0.0
+Manuell: negativ
+
+mandzukic - nun ja, so schlecht hat er das gar nicht gemacht #uclfinal
+Textblob: 0.0
+Manuell: positiv
+
+10 Minuten gespielt. Ronaldo fordert Elfmeter. Surprising. #uclfinal
+Textblob: -0.25
+Manuell: negativ
+
+"Das Finale wird man immer wieder sehen. Brauchen ein zeitloses Trikot." "Oder das lilafarbene!" "GEILE IDEE!" #UCLfinal #JUVRMA #JuveRMA
+Textblob: 0.0
+Manuell: negativ
+
+Die Black Eyed Peas werden gar nicht ausgepfiffen. Komisch! #UCLfinal
+Textblob: 0.3333333333333333
+Manuell: negativ
+
+Mir ist das zu kommerziell. Gehe mir erst einmal eine Pepsi holen. #UCLFinal
+Textblob: 0.0
+Manuell: negativ
+
+Kann mir jemand die Regeln nochmal erklären? Ballspielen ist gelb und Ronaldo darf im abseits stehen Oder? #fcbrma
+Textblob: 0.0
+Manuell: negativ
+
+Martin #Schulz liegt in Umfragen so deutlich hinter Merkel, da hilft nur noch der Schiri vom Bayernspiel. #RMAFCB
+Textblob: 0.35
+Manuell: negativ
+
+Ok Game over schade ,aber gegen 12 Mann hat man null Chance ,egal Ich bin stolz auf euch @FCBayern  ??MiaSanMia?? #RMAFCB
+Textblob: -0.030000000000000006
+Manuell: negativ, positiv
+
+Jetzt ist es offiziell: Mit dem #Reklamierarm zeigt Neuer ein reguläres Tor an. Bleibt der Arm unten - Abseits. #rmafcb
+Textblob: -0.2
+Manuell: negativ, neutral
+
+Wir haben Neuers Arm immer falsch interpretiert. Er zeigt wohl an, wenn das Tor korrekt ist #rmafcb
+Textblob: 0.0
+Manuell: negativ
+
+Wie soll der Schiri auf Abseits kommen, wenn nicht mal Neuer den Reklamierarm hebt??? #Rmafcb
+Textblob: 0.0
+Manuell: negativ
+
+Bei Bayern rennen die Ärzte aufs Feld - bei Real die Friseure. #RMAFCB
+Textblob: 0.2
+Manuell: negativ
+
+Verlängerung wäre vor allem für den kleinen Philipp toll! So lange auf bleiben... #RMAFCB #PhilippLahm
+Textblob: 0.2
+Manuell: negativ
+
+
+Um zu verhindern, dass Robben abhebt, bräuchte man schon das Security-Personal von United Airlines. #RMAFCB
+Textblob: -0.2
+Manuell: negativ
+
+#Aytekin muss Rückspiel #FCBJuve pfeiffen, sonst ist #Barca raus ?? #JuveFCB
+Textblob: 0.0
+Manuell: negativ
+
+Gerüchten zufolge wurde #Aytekin in den Katakomben des #CampNou gesichtet #FCBJUV #Geheimmission #aufKassaisSpuren #FORZAJUVE
+Textblob: 0.0
+Manuell: negativ
+
+@SZ @FCBayern #FCBayern Was sollte da erst @PSG_inside sagen, nach dem "Wunder" von #Barca unter kräftiger Beteiligung von #Aytekin? ?? #Videobeweis
+Textblob: -0.2
+Manuell: negativ
+
+Darf #aytekin eigentlich das Rückspiel der #Bayern gegen #ronaldo pfeifen? Ansonsten hilft nur ein ?Wunder ?? #fcbrmd #fcbreal #BayernReal
+Textblob: -0.05000000000000001
+Manuell: negativ
+
+Was mich interessieren würde: Pfeift #Aytekin nächste Woche eigentlich #Barca? Der #BVB könnte ihn gebrauchen!
+Textblob: 0.2
+Manuell: negativ
+
++++news+++ soeben hat #aytekin beim @FCBarcelona angefragt ob er das Rückspiel #JuveFCB Pfeifen soll #ucl #ChampionsLeague
+Textblob: 0.0
+Manuell: negativ, neutral
+
+#JUVFCB ist #Aytekin schon für Rückspiel nominiert?
+Textblob: 0.0
+Manuell: negativ
+
+Zum #Clasico gehört auch der Klassiker. Ramos mit der Roten Karte. #RMAFCB
+Textblob: 0.0
+Manuell: negativ, neutral
+
+
+
+Bei VW ist übrigens die Abteilung für die Zuschauerzahlen zuständig, die auch für die Abgaßwerte veröffentlicht hat. #EBSWOB
+Textblob: 0.0
+Manuell: negativ
+
+Wer sagt dem Schiedsrichter, dass es Hamburg doch noch direkt geschafft hat und das Wolfsburg ist? #WOBEBS
+Textblob: 0.2333333333333333
+Manuell: negativ
+
+"Ausverkauft" oder wie man in Wolfsburg sagt: "Der Diesel ist so sauber wie der Benziner." #WOBEBS
+Textblob: 0.0
+Manuell: negativ
+
+#Aytekin pfeift das #Pokalfinale #BVB vs. #SGE. So wird nach langem Warten Barcelona endlich auch den DFB-Pokal gewinnen??
+Textblob: 0.2
+Manuell: negativ
+
+Erlebnisorientierte Fußball-Fans sollen der Gewalt abschwören, aber @_Helene_Fischer singt im #DFBPokal-Finale. Diese Ironie...
+Textblob: 0.0
+Manuell: negativ
+
+Wie der #ancelotti sich freut über die Meisterschaft.  Respekt.  Ein Mann,  der den Fussball lebt und liebt.  #ironie #WOBFCB
+Textblob: 0.0
+Manuell: negativ
+
+Bei Fußball und Theater klatschen sie zum Schluss,im Theater die Hände zusammen,beim Fußball die Köppe zusammen. ???????? Ironie
+Textblob: -0.05833333333333333
+Manuell: negativ
+
+@DFB_Frauen wie gut, dass die Übertragung der ARD so gut klappt... *Ironie aus* 
+Textblob: 0.16666666666666666
+Manuell: negativ
+
+@bundesliga_de @DFB_Junioren @Rio2016_enWieso ist Klose nicht dabei? (Ironie)
+Textblob: 0.0
+Manuell: neutral
+
+
+
+Volles Haus wieder beim VFL Wolfsburg! #vfl1899 #ironie
+Textblob: 0.0
+Manuell: negativ, neutral
+
+#Deutschermeister erst nach dem 31. Spieltag ... Das muss nächste Saison besser werden!!! Peinlich! Krise beim #FCB!!! *ironie* #Bundesliga
+Textblob: 0.0
+Manuell: negativ
+
+#FCB vs. #SVW: 582 Mio. Kader rasiert 65 Mio. Kader und die Fußballwelt steht Kopf. Das war so natürlich nicht zu erwarten! ;) #Ironie
+Textblob: 0.0
+Manuell: negativ
+
+Der #HSV -Fan wird das rechnen anfangen: 2 Punkte hinter dem #FCB bedeuten am Ende die Vize-Meisterschaft! #Bundesliga #HSVFCI #Ironie 
+Textblob: 0.0
+Manuell: neutral
+
+Danke an die grandiose Leistung des Schiedsrichters. "IRONIE" ???? Schiedsrichter spielt für #FCB #Pokalfinale #DFBPokalfinale #FCBBVB ?????? 
+Textblob: 0.0
+Manuell: negativ
+
+Mit den Millionen aus der #Relegation holt sich der VfL Wolfsburg also nun #Brooks. Jahrelange, harte Arbeit zahlt sich eben doch aus!
+Textblob: 0.35
+Manuell: negativ
+
+Juhu! #1860 hat diesmal nur 0:1 verloren!!! #Ironie #bitter
+Textblob: 0.0
+Manuell: negativ
+
+-----------------------
+Opinion Mining - Korpus - Nicht-Ironische Tweets
+
+Krass, wie die ARD die Stadionmikros runterdreht, damit man das Pfeifkonzert nicht hört. #DFBPokal #SGEBVB
+Textblob: 0.2333333333333333
+Manuell: Negativ
+
+So laut haben sich die Fans nicht mal bei der Mannschaftsaufstellung gegenseitig ausgepfiffen. #HeleneFischer #DFBPokal
+Textblob: 0.0
+Manuell: Negativ
+ 
+Wie das Playback nicht mal die Pfiffe übertönt, so schön. #SGEBVB
+Textblob: 0.3333333333333333
+Manuell: Negativ, positiv
+
+Sehr souveräner Auftritt von Aytekin und seinem Team. Klare Linie, starke Körpersprache, absolute Akzeptanz. Hat Spaß gemacht. (af) #SGEBVB
+Textblob: 0.36
+Manuell: positiv
+
+#Pokalfinale ohne die Bayern ist wie ein Sommertag ohne Sonnenbrand. ICH LIEBE ES! #DFBPokal #SGEBVB
+Textblob: 0.0
+Manuell: positiv
+
+Steffen Simon kriegt sich nicht mehr ein wegen eines souverän verwandelten Elfmeters. Es ist einfach so anstrengend. #SGEBVB
+Textblob: 0.3
+Manuell: Negativ
+ 
+Als @BVB Fan muss ich leider eingestehen, dass die @Eintracht Fans für mehr und bessere Stimmung im #DFBPokal2017 gesorgt haben !!! #SGEBVB
+Textblob: 0.15555555555555553
+Manuell: positiv
+ 
+Wenn wir nach einem Pokalfinale nur noch über #HeleneFischer diskutieren, dann muss das Finale schon schlecht gewesen sein.#SGEBVB #DFBPokal
+Textblob: -0.3333333333333333
+Manuell: Negativ
+ 
+#SGEBVB Die Halbzeitshow war aber wirklich unnötig. Fr. Fischer wird es verschmerzen können.
+Textblob: 0.6666666666666666
+Manuell: Negativ
+ 
+Die Kontrollen vorm #pokalfinale waren übrigens so unfassbar schlecht. Darf sich der #dfb gerne auch mal selbst bestrafen. #sgebvb #bvb
+Textblob: -0.5
+Manuell: Negativ
+ 
+Nach allem, was passiert ist, gönne ich dem @BVB den Pokalsieg von Herzen. Well done! #SGEBVB #DFBPokal
+Textblob: 0.0
+Manuell: positiv
+
+Bin tatsächlich erleichtert, dass die Eintracht nicht gewonnen hat. Der Ausnahmezustand für die nächsten 3 Mon wäre kaum vorstellbar #SGEBVB
+Textblob: 0.033333333333333326
+Manuell: Negativ
+ 
+Ehre, wenn Ehre gebührt: danke @Eintracht für ein geiles Spiel. Super Fans und ne Hammer Choreo  #sgebvb #Pokalfinale
+Textblob: 0.2333333333333333
+Manuell: positiv
+ 
+Ist das schön wenn sich ein Team über den #DFBPokal Sieg noch richtig freut und diesen nicht als Trostpreis ansieht. #sgebvb #bvb
+Textblob: 0.3333333333333333
+Manuell: positiv
+
+#Reus kann einem wieder richtig leid tun wenn das stimmt mit 6 Monaten ZwangspauseGute Besserung#SGEBVB #BVB #Dortmund @BVB @woodyinho
+Textblob: 1.0
+Manuell: positiv
+
+Schlechteste Kombination die es jemals im deutschen Fussball gegeben hat, Helene Fischer + Steffen Simon bei einem Match #dfbpokal
+Textblob: 0.0
+Manuell: Negativ
+ 
+Helene Fischer wird gnadenlos ausgepfiffen. Sehr schön! #Pokalfinale #SGEBBVB
+Textblob: 0.07500000000000001
+Manuell: Negativ
+ 
+
+Eine Sache, die schlicht irre ist: Spieler dafür zu kritisieren, wie sie feiern. #UCLfinal
+Textblob: 0.04444444444444443
+Manuell: Negativ
+
+ 
+Tut mir extrem leid für @gianluigibuffon ! Kopf hoch und immer weiter machen super Sportsmann dem ich es so sehr gegönnt hätte #UCLFinal
+Textblob: 0.2333333333333333
+Manuell: positiv
+
+Sie mögen noch so gut sein. Sympathisch wird mir Real Madrid in diesem Leben nicht mehr. #UCLfinal #JUVRMA
+Textblob: 0.375
+Manuell: Negativ
+ 
+Soviel großer Sportmann wie Buffon wird Ramos niemals sein. #UCLfinal #JUVRMD
+Textblob: 0.2333333333333333
+Manuell: Negativ
+ 
+Tut mir so leid für Buffon, keinem anderen hätte ich den Titel so gegönnt. #UCLFinal
+Textblob: 0.0
+Manuell: positiv
+
+Man, das hat Juve nicht verdient. Das hat #Buffon nicht verdient. #UCLFinal #Ramos #JUVRMA
+Textblob: 0.0
+Manuell: positiv
+
+Die goldene Himbeere für Ramos, die blöde Sau. #UCLfinal #JuveRMadrid
+Textblob: -0.3333333333333333
+Manuell: Negativ
+ 
+Das war einfach unnötig von Ramos... So was trübt die Leistung von Real.. #unsportlich #UCLfinal
+Textblob: 0.5666666666666667
+Manuell: Negativ
+ 
+Ramos ist einfach der ekelhafteste Fußballer aller Zeiten, so unsportlich. #UCLFinal
+Textblob: 0.2333333333333333
+Manuell: Negativ
+ 
+Toni Kroos erfährt in Deutschland nicht im Ansatz die Wertschätzung, die er verdient hätte. Wahnsinnig guter Fußballer. #UCLfinal
+Textblob: 0.25
+Manuell: positiv
+
+Es steht schon 3:1 für Real Madrid? Ekelhaft. #UCLfinal
+Textblob: 0.0
+Manuell: Negativ
+
+ 
+Ihr könnt sagen was ihr wollt. Ich finde #Ronaldo großartig. #JUVRMA #UCLfinal
+Textblob: 0.25
+Manuell: positiv
+
+Juve Fans. Ich leide gerade mit euch :( #UCLfinal
+Textblob: -0.3333333333333333
+Manuell: positiv
+
+Das tut mir so leid für Buffon... #JUVRMA #UCLfinal
+Textblob: 0.0
+Manuell: positiv
+
+Das bricht mir für Juve grade das Herz.. #JUVRMA #UCLfinal
+Textblob: 0.0
+Manuell: positiv
+
+Ramos ist und bleibt ein finsterer Schurke #JUVRMA #UCLfinal
+Textblob: 0.0
+Manuell: Negativ
+ 
+Was für ein mega schönes und krasses Tor von @MarioMandzukic9 #UCLfinal @juventusfc
+Textblob: 0.425
+Manuell: positiv
+
+Hätte Lust auf ein Elfmeterschießen, ihr? #UCLfinal
+Textblob: 0.0
+Manuell: neutral
+
+Großartiges Finale! #UCLfinal
+Textblob: 0.0
+Manuell: positiv
+
+Hohes Tempo, technisch taktisch Top-Niveau! So macht Fußball Spaß!! #UCLfinal #skycl #JUVRMA
+Textblob: 0.0
+Manuell: positiv
+
+Das Zuschauen macht bisher viel Spaß. Sehr schön. #juverma #uclfinal
+Textblob: 0.25
+Manuell: positiv
+
+Diese Halbzeit ging viel zu schnell vorbei. Mega intensives Spiel. Einfach nur weltklasse. #JUVRMA #UCLFinal @ChampionsLeague @SPORTBILD
+Textblob: 0.33999999999999997
+Manuell: positiv
+ 
+Macht Spaß beim zuschauen  #UCLfinal
+Textblob: 0.0
+Manuell: positiv
+ 
+WAS EIN TOR! Sowas schießt du auch nur einmal im Leben! :O #UCLfinal
+Textblob: -0.175
+Manuell: positiv
+ 
+Alter was ein geiles Tor, geiler Scheiß Mandzu!!!!  #JUVRMA #UCLfinal #ForzaJuve
+Textblob: -0.3333333333333333
+Manuell: positiv
+ 
+Geiles Spiel - jetzt schon  #UCLfinal
+Textblob: 0.0
+Manuell: positiv
+ 
+Überragend gemacht von Mandzu! #JUVRMA 1:1 #UCLfinal
+Textblob: 0.3333333333333333
+Manuell: positiv
+ 
+Was eine geile Kiste von Mandzukic #UCLfinal
+Textblob: 0.35
+Manuell: positiv
+ 
+#UCLfinal was für ein Traumtor
+Textblob: 0.0
+Manuell: positiv
+ 
+Mandzu was ein Tor  #JUVRMA #UCLfinal
+Textblob: 0.0
+Manuell: positiv
+ 
+WAS. FÜR. EIN. TOR. #UCLfinal
+Textblob: 0.0
+Manuell: positiv
+ 
+So geil der Ronaldo! #UCLfinal #JUVRMA
+Textblob: 0.2333333333333333
+Manuell: positiv
+ 
+Eigentlich ist mir total egal, wer heute gewinnt, aber #Buffon würde ich es echt gönnen  #UCLfinal #JUVRMA
+Textblob: 0.5
+Manuell: positiv
+ 
+Jeder der hier Buffon nicht den Titel gönnt, schmeißt auch kleine Hundenwelpen in den See. #JUVRMA #UCLfinal
+Textblob: 0.0
+Manuell: positiv, negativ
+
+Die lilafarbenen Trikots von Real sind so hässlich, dass sie den Titel nicht verdienen. #UCLFinal
+Textblob: 0.0
+Manuell: negativ
+ 
+Showtime!  Gigi, hol dir diesen verdammten Titel. Keiner hat es mehr verdient, nach all diesen Jahren, als du! #UCLFinal #Cardiff #JUVRMA
+Textblob: 0.0
+Manuell: positiv
+ 
+Da denkt man Helene Fischer beim DFB Pokalfinale war mies und dann kommen die Black Eyed Peas und toppen das nochmal #UCLfinal
+Textblob: 0.0
+Manuell: negativ
+
+#UCLfinal gucken und #Buffon die Daumen drücken. Hat es verdient! Hashtag #JUVRMA
+Textblob: -0.25
+Manuell: positiv
+ 
+Die CL gewinnt man nicht mal eben so zwei mal hintereinander. Real Madrid ist und bleibt der Big Player im internationalen Fußball. #JUVRMA
+Textblob: 0.25
+Manuell: positiv
+ 
+Echt hart anzusehen, dass der Fliegenfänger Keylor Navas 2x die CL gewonnen hat und Gigi in all den Jahren gar nicht.. #UCLfinal #JUVRMA
+Textblob: 0.2833333333333333
+Manuell: negativ
+
+heftig..mir tut gigi einfach nur leid das hat er nicht verdient #JUVRMA
+Textblob: 0.35
+Manuell: positiv
+ 
+Man kann von @Cristiano halten was man will, aber es gab gefühlt noch nie einen Sportler, der sich so sehr dem Erfolg verschrieb... #JUVRMA
+Textblob: 0.0
+Manuell: positiv
+
+
+ 
+Starkes Spiel von beiden, aber am Ende kann nur einer gewinnen  schade für Juventus aber kopf hoch und weiter geht's #JUVRMA
+Textblob: 0.175
+Manuell: positiv
+ 
+Ok, er ist ein Nimmersatt! Nein, nicht nur @Cristiano auch @ToniKroos. Dritter Championsleague Titel. Fette Gratulation! #JUVRMA Schade Gigi
+Textblob: -0.05000000000000001
+Manuell: positiv
+
+Krass, wie die ARD die Stadionmikros runterdreht, damit man das Pfeifkonzert nicht hört. #DFBPokal #SGEBVB
+Textblob: 0.2333333333333333
+Manuell: negativ
+
+So laut haben sich die Fans nicht mal bei der Mannschaftsaufstellung gegenseitig ausgepfiffen. #HeleneFischer #DFBPokal
+Textblob: 0.0
+Manuell: negativ
+
+Wie das Playback nicht mal die Pfiffe übertönt, so schön. #SGEBVB
+Textblob: 0.3333333333333333
+Manuell: negativ
+ 
+Eins ist klar, solche Halbzeitshows wie von Helene Fischer braucht keiner im Fußball! #DFBPokal #SGEBVB #Fischer
+Textblob: 0.3333333333333333
+Manuell: negativ
+
+

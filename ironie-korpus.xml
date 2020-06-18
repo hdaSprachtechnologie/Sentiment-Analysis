@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <Tweet>
+    <Text>Muss sich der @DFB nach den Pyros bei #sgebvb als Veranstalter jetzt eigentlich selbst bestrafen?  ?  #dopa</Text>
+    <Textblob>-0.5</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>@DFB_Team gratuliert Arsenal, aber nicht der Borussia - genau mein Humor. Nicht. #DFBPokal #SGEBVB</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>#SGEBVB #HeleneFischer Hätte nie gedacht, dass Fußballfans so musikalisch sind.Da waren ja die Pfiffe melodischer!</Text>
+    <Textblob>1</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Auch mit Holzhammer-Reimen wie &quot;Leben&quot; auf &quot;-leben&quot; kann man ein millionenschwerer Schlagerstar werden. Interessant. #SGEBVB #DFBPokal </Text>
+    <Textblob>0.3333333333</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Wenn Helene Fischers Auftritt ein Symbol der Kommerzialisierung sein soll, dann ist #Waldi das Symbol des Schlankheitswahn. #SGEBVB #dopa</Text>
+    <Textblob>0</Textblob>
+    <Manuell> negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Helene Fischer ins Programm aufnehmen und sich dann über die Pyroshow aufregen. Hat der #DFB noch nie ein Konzert besucht? #SGEBVB</Text>
+    <Textblob>-0.3333333333</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Was ich mich frage: Sind d. Verlierer eigentlich vertraglich dazu verpflichtet,sich immer so theatralisch zu Boden fallen zu lassen? #SGEBVB</Text>
+    <Textblob>0.075</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Das beste am heutigen Abend ist, dass sich die Schalker hier nach ihrem offiziellen Glückwunsch selbst zerfleischen #SGEBVB #s04 #DFBPokal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Bierdusche. Geil. #SGEBVB</Text>
+    <Textblob>0.2333333333</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Habt ihr schon gehört, beim Konzert von Helene Fischer treten Spieler von Eintracht Frankfurt und dem BVB auf. #Pokalfinale</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Stell&apos; ich mir ziemlich lästig vor, als #AfD Anhänger beim #Pokalfinale immer wegzuschauen, wenn ein Ausländer am Ball ist.</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Mein Highlight beim #dfbpokalfinale waren die Pfiffe &quot;für&quot; Helene Fischer. #SGEBVB</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>#Reus verletzt? Als nächstes erzählt mir noch jemand das morgen die Sonne aufgeht... *gähn* #SGEBVB #dfbpokalfinale #DFBPokal</Text>
+    <Textblob>-0.5</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Nichts gegen  #HeleneFischer. Ich fand sie ja heute mit Mute-Taste &amp; Videotext sehr gut erträglich.  Danke, @ARD &amp; Shize-#DFB  #SGEBVB</Text>
+    <Textblob>0.3333333333</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>&quot;Dopingkontrolle? Das braucht kein Mensch! &quot;Na dann ist ja gut. #SGEBVB #DFBPokal #dfbpokalfinale</Text>
+    <Textblob>0.25</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Ist ja eine richtige Partytruppe im @sportschau-Club Studio  ?  #SGEBVB #DfbPokalfinale</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>&quot;Doping-Kontrolle, das braucht doch eigentlich kein Mensch&quot; - Weltklasse-Aussage, #Schmelzer #SGEBVB #BVB</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Rammstein wird wohl nie in einem Pokalfinale auftreten. Der DFB steht ja nicht so auf Pyro. Schade. #SGEBVB</Text>
+    <Textblob>-0.25</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Sicherheitskontrollen haben nichts geholfen - #HeleneFischer hat es trotzdem bis ins Stadion geschafft! #SGEBVB #DFBPokal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Da hat der #Bvb aber mal die größten Stimmungskanonen zum #sportschauclub geschickt... #SGEBVB #DFBPokal #dfbpokalfinale</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>stell dir vor du hast gerade das #dfbpokalfinale gewonnen und darfst zur feier erstmal in den #sportschauclub. da kommt freude auf #sgebvb</Text>
+    <Textblob>0.5</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>In der Halbzeitpause des Helene Fischer Konzerts hat der BVB den Pokal gewonnen. Schwerpunktsetzung des Sportschau Clubs voll ok. #SGEBVB</Text>
+    <Textblob>0</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Keine GoPro am Pokal? Ich bin entäuscht. #SGEBVB #Pokalfinale</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Wie süß die im Sportschau Club denken es wurde gepfiffen, weil Helene angeblich BVB Fan ist! #sportschauclub #SGEBVB</Text>
+    <Textblob>-0.5</Textblob>
+    <Manuell>negativ </Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>&quot;Ein bisschen Kreuzband...&quot; Na herzlichen Glückwunsch. #Reus #SGEBVB #BVB #DFBCupFinal #DFBPOKAL</Text>
+    <Textblob>0.5</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>&quot;Vielleicht ein bisschen Kreuzband!&quot; - Tolle Aussage @woodyinho  ?  ? #SGEBVB</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Deshalb ist er der Fußballgott! Auf die erste Interviewfrage erstmal mit &quot;Wie gesagt&quot; antworten. Stark, Alex Meier! #SGEBVB #DFBPokal</Text>
+    <Textblob>0.175</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Joa. Einen der erfolgreichsten Trainer und Pokalsieger entlassen...Da muss sich Watzke aber einen sehr romantischen Text ausdenken :)#SGEBVB</Text>
+    <Textblob>-0.35</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>&quot;..hat den entscheidenden Elfer rausgeholt..&quot;Ist ja auch so eine große Leistung, gefoult zu werden.ManManMan. #SGEBVB #dfbpokalfinale</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Und Watzke guckt, als wäre seine Familie gestorben... muss ja n richtiger Sympath sein #sgebvb</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Kanonenschläge zur Feier des BVB. Hat sich ein ganz schlauer Kopf ausgedacht. #sgebvb</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Kompliment an die Organisatoren. Eine Siegerehrung bei der null Emotionen rüberkommen. Das bekommt nicht jeder hin. #SGEBVB #DFBPokal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Super! Wieder ein wichtiges Spiel vom Schiedsrichter entschieden. Läuft im deutschen Fußball. #DFBPokal #SGEBVB</Text>
+    <Textblob>0.425</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>&quot;Was geht #Watzke durch den Kopf?&quot; Der freut sich, sieht man doch! #SGEBVB</Text>
+    <Textblob>0.3333333333</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>&quot;Hey, lasst uns die Verlierer mit deprimierender Musik noch enttäuschter machen!&quot; &quot;Geile Idee!&quot;Der @DFB so. #SGEBVB</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Großartig.Da gewinnst du den #DFBPokal und während der Ehrung wird dir &quot;Human&quot; um die Ohren geschlagen. #SGEBVB #dfbpokalfinale</Text>
+    <Textblob>0.5</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Sinnlose Pfiffe für den Schiri von schlechten Verlierern dürfen natürlich auch nicht fehlen! #SGEBVB</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>#DFBPokal boah das Finale war fast so spannend wie Gras beim wachsen zu zuschauen #sgebvb</Text>
+    <Textblob>0.7</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Bei seinem Geschrei bin ich mir nicht sicher. Hat jetzt Borussia Dortmund oder Steffen Simon den DFB-Pokal gewonnen? #DFBPokal #SGEBVB</Text>
+    <Textblob>0.2166666667</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>&quot;Sicherheitskontrolle am Eingang? Wie jetzt? Sowas braucht man?&quot; #SGEBVB</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Dass da wieder alles voller gelber Pyro ist, zeigt, wie toll diese verschärften Sicherheitskontrollen gelaufen sind. Ganz toll...  ?  #sgebvb</Text>
+    <Textblob>1</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>In der Stadt und am Stadion zusammen zu feiern und sich dann drinnen als „Hurensöhne“ zu beschimpfen, muss diese Folklore sein. #sgebvb</Text>
+    <Textblob>-0.075</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Wie kann man überhaupt Pyro bei den Ereignissen der letzten Monate reinschmuggeln? Gute Kontrollen... #SGEBVB</Text>
+    <Textblob>0.5</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Die Pfiffe hatten natürlich absolut gar nichts mit Helene Fischer zu tun, denn die liebt ja jeder. :) #Professionelle #SportschauClub</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Besonders gefallen haben mir die Fischer-Chöre in der Pause. #dfbpokalfinale #SGEBVB #sportschauclub</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Die 5fünf gelben waren ja lustig und so unterhaltsam. Gähn #SportschauClub</Text>
+    <Textblob>0.5</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>stell dir vor du hast gerade das #dfbpokalfinale gewonnen und darfst zur feier erstmal in den #sportschauclub. da kommt freude auf #sgebvb</Text>
+    <Textblob>0.5</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Stell dir vor es ist Finale und die Bayern sitzen vor der Glotze. Das nennt man dann wohl Finale dahoam</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Für eine der beiden Mannschaften singt Helene Fischer gleich ihr Lied &quot;Beim Träumen ist alles erlaubt...&quot;</Text>
+    <Textblob>1</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>aytekin ist der einzige, der die nationalhymne singt. alle besorgten buerger sollten jetzt in eine komplette sinnkriese stuerzen.</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Helene beim Tatort, Helene beim #GNTMFinale, Helene bei Tshibo, Helene beim #DFBPokal Trau mich gar nicht den Klodeckel aufzumachen…</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Reus könnte so ein begnadeter Fußballspieler sein wenn er nicht das Muskelfleisch eines Gummibärchen hätte. #BVBSGE #DFBPokal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>+ + + BREAKING + + + IS bekennt sich zu Helene Fischer Auftritt bei DFB Pokalfinale! #SGEBVB #DFBPokal</Text>
+    <Textblob>0.35</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Helene Fischer singt Samstag ein Medley ihrer größten Hits...Also Atemlos in Dauerschleife?#dfbpokal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Gell liebe #Uefa, Pyro ist schon geil.</Text>
+    <Textblob>0.85</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Bei so ner Siegerehrung gefährdet man plötzlich keine Kinder mehr durch Rauch.#UCLfinal #JUVRMA</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Zuschauen,wie die Schmierlappen von Real den CL Sieg feiern? Macht mehr Spass,sich nen rostigen Nageln ins Auge zu rammen. #UCLfinal #JUVRMD</Text>
+    <Textblob>0.2833333333</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Hui. Ramos kommt wohl nicht um eine Amputation herum. Herrje. #UCLfinal #JUVRMA</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Ist es unter dem geschlossenen Dach eigentlich warm? Ich glaube der ZDF-Kommentator hat das fast gar nicht erwähnt. #UCLfinal #JUVRMA</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>mandzukic - nun ja, so schlecht hat er das gar nicht gemacht #uclfinal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>10 Minuten gespielt. Ronaldo fordert Elfmeter. Surprising. #uclfinal</Text>
+    <Textblob>-0.25</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>&quot;Das Finale wird man immer wieder sehen. Brauchen ein zeitloses Trikot.&quot; &quot;Oder das lilafarbene!&quot; &quot;GEILE IDEE!&quot; #UCLfinal #JUVRMA #JuveRMA</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Die Black Eyed Peas werden gar nicht ausgepfiffen. Komisch! #UCLfinal</Text>
+    <Textblob>0.3333333333</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Mir ist das zu kommerziell. Gehe mir erst einmal eine Pepsi holen. #UCLFinal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Kann mir jemand die Regeln nochmal erklären? Ballspielen ist gelb und Ronaldo darf im abseits stehen Oder? #fcbrma</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Martin #Schulz liegt in Umfragen so deutlich hinter Merkel, da hilft nur noch der Schiri vom Bayernspiel. #RMAFCB</Text>
+    <Textblob>0.35</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Ok Game over schade ,aber gegen 12 Mann hat man null Chance ,egal Ich bin stolz auf euch @FCBayern  ??MiaSanMia?? #RMAFCB</Text>
+    <Textblob>-0.03</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Jetzt ist es offiziell: Mit dem #Reklamierarm zeigt Neuer ein reguläres Tor an. Bleibt der Arm unten - Abseits. #rmafcb</Text>
+    <Textblob>-0.2</Textblob>
+    <Manuell>neutral</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Wir haben Neuers Arm immer falsch interpretiert. Er zeigt wohl an, wenn das Tor korrekt ist #rmafcb</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Wie soll der Schiri auf Abseits kommen, wenn nicht mal Neuer den Reklamierarm hebt??? #Rmafcb</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Bei Bayern rennen die Ärzte aufs Feld - bei Real die Friseure. #RMAFCB</Text>
+    <Textblob>0.2</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Verlängerung wäre vor allem für den kleinen Philipp toll! So lange auf bleiben... #RMAFCB #PhilippLahm</Text>
+    <Textblob>0.2</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Um zu verhindern, dass Robben abhebt, bräuchte man schon das Security-Personal von United Airlines. #RMAFCB</Text>
+    <Textblob>-0.2</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>#Aytekin muss Rückspiel #FCBJuve pfeiffen, sonst ist #Barca raus ?? #JuveFCB</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Gerüchten zufolge wurde #Aytekin in den Katakomben des #CampNou gesichtet #FCBJUV #Geheimmission #aufKassaisSpuren #FORZAJUVE</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>@SZ @FCBayern #FCBayern Was sollte da erst @PSG_inside sagen, nach dem &quot;Wunder&quot; von #Barca unter kräftiger Beteiligung von #Aytekin? ?? #Videobeweis</Text>
+    <Textblob>-0.2</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Darf #aytekin eigentlich das Rückspiel der #Bayern gegen #ronaldo pfeifen? Ansonsten hilft nur ein ?Wunder ?? #fcbrmd #fcbreal #BayernReal</Text>
+    <Textblob>-0.05</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Was mich interessieren würde: Pfeift #Aytekin nächste Woche eigentlich #Barca? Der #BVB könnte ihn gebrauchen!</Text>
+    <Textblob>0.2</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>+++news+++ soeben hat #aytekin beim @FCBarcelona angefragt ob er das Rückspiel #JuveFCB Pfeifen soll #ucl #ChampionsLeague</Text>
+    <Textblob>0</Textblob>
+    <Manuell>neutral</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>#JUVFCB ist #Aytekin schon für Rückspiel nominiert?</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Zum #Clasico gehört auch der Klassiker. Ramos mit der Roten Karte. #RMAFCB</Text>
+    <Textblob>0</Textblob>
+    <Manuell>neutral</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Bei VW ist übrigens die Abteilung für die Zuschauerzahlen zuständig, die auch für die Abgaßwerte veröffentlicht hat. #EBSWOB</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Wer sagt dem Schiedsrichter, dass es Hamburg doch noch direkt geschafft hat und das Wolfsburg ist? #WOBEBS</Text>
+    <Textblob>0.2333333333</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>&quot;Ausverkauft&quot; oder wie man in Wolfsburg sagt: &quot;Der Diesel ist so sauber wie der Benziner.&quot; #WOBEBS</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>#Aytekin pfeift das #Pokalfinale #BVB vs. #SGE. So wird nach langem Warten Barcelona endlich auch den DFB-Pokal gewinnen??</Text>
+    <Textblob>0.2</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Erlebnisorientierte Fußball-Fans sollen der Gewalt abschwören, aber @_Helene_Fischer singt im #DFBPokal-Finale. Diese Ironie...</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Wie der #ancelotti sich freut über die Meisterschaft.  Respekt.  Ein Mann,  der den Fussball lebt und liebt.  #ironie #WOBFCB</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Bei Fußball und Theater klatschen sie zum Schluss,im Theater die Hände zusammen,beim Fußball die Köppe zusammen. ???????? Ironie</Text>
+    <Textblob>-0.0583333333</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>@DFB_Frauen wie gut, dass die Übertragung der ARD so gut klappt... *Ironie aus* </Text>
+    <Textblob>0.1666666667</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>@bundesliga_de @DFB_Junioren @Rio2016_enWieso ist Klose nicht dabei? (Ironie)</Text>
+    <Textblob>0</Textblob>
+    <Manuell>neutral</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Volles Haus wieder beim VFL Wolfsburg! #vfl1899 #ironie</Text>
+    <Textblob>0</Textblob>
+    <Manuell>neutral</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>#Deutschermeister erst nach dem 31. Spieltag ... Das muss nächste Saison besser werden!!! Peinlich! Krise beim #FCB!!! *ironie* #Bundesliga</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>#FCB vs. #SVW: 582 Mio. Kader rasiert 65 Mio. Kader und die Fußballwelt steht Kopf. Das war so natürlich nicht zu erwarten! ;) #Ironie</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Der #HSV -Fan wird das rechnen anfangen: 2 Punkte hinter dem #FCB bedeuten am Ende die Vize-Meisterschaft! #Bundesliga #HSVFCI #Ironie</Text>
+    <Textblob>0</Textblob>
+    <Manuell>neutral</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Danke an die grandiose Leistung des Schiedsrichters. &quot;IRONIE&quot; ???? Schiedsrichter spielt für #FCB #Pokalfinale #DFBPokalfinale #FCBBVB ?????? </Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Danke an die grandiose Leistung des Schiedsrichters. &quot;IRONIE&quot; ???? Schiedsrichter spielt für #FCB #Pokalfinale #DFBPokalfinale #FCBBVB ?????? </Text>
+    <Textblob>0.35</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Mit den Millionen aus der #Relegation holt sich der VfL Wolfsburg also nun #Brooks. Jahrelange, harte Arbeit zahlt sich eben doch aus!</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Juhu! #1860 hat diesmal nur 0:1 verloren!!! #Ironie #bitter</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>TRUE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Krass, wie die ARD die Stadionmikros runterdreht, damit man das Pfeifkonzert nicht hört. #DFBPokal #SGEBVB</Text>
+    <Textblob>0.2333333333</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>So laut haben sich die Fans nicht mal bei der Mannschaftsaufstellung gegenseitig ausgepfiffen. #HeleneFischer #DFBPokal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Wie das Playback nicht mal die Pfiffe übertönt, so schön. #SGEBVB</Text>
+    <Textblob>0.3333333333</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Sehr souveräner Auftritt von Aytekin und seinem Team. Klare Linie, starke Körpersprache, absolute Akzeptanz. Hat Spaß gemacht. (af) #SGEBVB</Text>
+    <Textblob>0.36</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>#Pokalfinale ohne die Bayern ist wie ein Sommertag ohne Sonnenbrand. ICH LIEBE ES! #DFBPokal #SGEBVB</Text>
+    <Textblob>0</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Steffen Simon kriegt sich nicht mehr ein wegen eines souverän verwandelten Elfmeters. Es ist einfach so anstrengend. #SGEBVB</Text>
+    <Textblob>0.3</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Als @BVB Fan muss ich leider eingestehen, dass die @Eintracht Fans für mehr und bessere Stimmung im #DFBPokal2017 gesorgt haben !!! #SGEBVB</Text>
+    <Textblob>0.1555555556</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Wenn wir nach einem Pokalfinale nur noch über #HeleneFischer diskutieren, dann muss das Finale schon schlecht gewesen sein.#SGEBVB #DFBPokal</Text>
+    <Textblob>-0.3333333333</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>#SGEBVB Die Halbzeitshow war aber wirklich unnötig. Fr. Fischer wird es verschmerzen können.</Text>
+    <Textblob>0.6666666667</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Die Kontrollen vorm #pokalfinale waren übrigens so unfassbar schlecht. Darf sich der #dfb gerne auch mal selbst bestrafen. #sgebvb #bvb</Text>
+    <Textblob>-0.5</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Nach allem, was passiert ist, gönne ich dem @BVB den Pokalsieg von Herzen. Well done! #SGEBVB #DFBPokal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Bin tatsächlich erleichtert, dass die Eintracht nicht gewonnen hat. Der Ausnahmezustand für die nächsten 3 Mon wäre kaum vorstellbar #SGEBVB</Text>
+    <Textblob>0.0333333333</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Ehre, wenn Ehre gebührt: danke @Eintracht für ein geiles Spiel. Super Fans und ne Hammer Choreo  #sgebvb #Pokalfinale</Text>
+    <Textblob>0.2333333333</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Ist das schön wenn sich ein Team über den #DFBPokal Sieg noch richtig freut und diesen nicht als Trostpreis ansieht. #sgebvb #bvb</Text>
+    <Textblob>0.3333333333</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>#Reus kann einem wieder richtig leid tun wenn das stimmt mit 6 Monaten ZwangspauseGute Besserung#SGEBVB #BVB #Dortmund @BVB @woodyinho</Text>
+    <Textblob>1</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Schlechteste Kombination die es jemals im deutschen Fussball gegeben hat, Helene Fischer + Steffen Simon bei einem Match #dfbpokal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Helene Fischer wird gnadenlos ausgepfiffen. Sehr schön! #Pokalfinale #SGEBBVB</Text>
+    <Textblob>0.075</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Eine Sache, die schlicht irre ist: Spieler dafür zu kritisieren, wie sie feiern. #UCLfinal</Text>
+    <Textblob>0.0444444444</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Tut mir extrem leid für @gianluigibuffon ! Kopf hoch und immer weiter machen super Sportsmann dem ich es so sehr gegönnt hätte #UCLFinal</Text>
+    <Textblob>0.2333333333</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Sie mögen noch so gut sein. Sympathisch wird mir Real Madrid in diesem Leben nicht mehr. #UCLfinal #JUVRMA</Text>
+    <Textblob>0.375</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Soviel großer Sportmann wie Buffon wird Ramos niemals sein. #UCLfinal #JUVRMD</Text>
+    <Textblob>0.2333333333</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Tut mir so leid für Buffon, keinem anderen hätte ich den Titel so gegönnt. #UCLFinal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Man, das hat Juve nicht verdient. Das hat #Buffon nicht verdient. #UCLFinal #Ramos #JUVRMA</Text>
+    <Textblob>0</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Die goldene Himbeere für Ramos, die blöde Sau. #UCLfinal #JuveRMadrid</Text>
+    <Textblob>-0.3333333333</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Das war einfach unnötig von Ramos... So was trübt die Leistung von Real.. #unsportlich #UCLfinal</Text>
+    <Textblob>0.5666666667</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Ramos ist einfach der ekelhafteste Fußballer aller Zeiten, so unsportlich. #UCLFinal</Text>
+    <Textblob>0.2333333333</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Toni Kroos erfährt in Deutschland nicht im Ansatz die Wertschätzung, die er verdient hätte. Wahnsinnig guter Fußballer. #UCLfinal</Text>
+    <Textblob>0.25</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Es steht schon 3:1 für Real Madrid? Ekelhaft. #UCLfinal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Ihr könnt sagen was ihr wollt. Ich finde #Ronaldo großartig. #JUVRMA #UCLfinal</Text>
+    <Textblob>0.25</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Juve Fans. Ich leide gerade mit euch :( #UCLfinal</Text>
+    <Textblob>-0.3333333333</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Das tut mir so leid für Buffon... #JUVRMA #UCLfinal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Das bricht mir für Juve grade das Herz.. #JUVRMA #UCLfinal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Ramos ist und bleibt ein finsterer Schurke #JUVRMA #UCLfinal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Was für ein mega schönes und krasses Tor von @MarioMandzukic9 #UCLfinal @juventusfc</Text>
+    <Textblob>0.425</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Hätte Lust auf ein Elfmeterschießen, ihr? #UCLfinal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>neutral</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Großartiges Finale! #UCLfinal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Hohes Tempo, technisch taktisch Top-Niveau! So macht Fußball Spaß!! #UCLfinal #skycl #JUVRMA</Text>
+    <Textblob>0</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Das Zuschauen macht bisher viel Spaß. Sehr schön. #juverma #uclfinal</Text>
+    <Textblob>0.25</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Diese Halbzeit ging viel zu schnell vorbei. Mega intensives Spiel. Einfach nur weltklasse. #JUVRMA #UCLFinal @ChampionsLeague @SPORTBILD</Text>
+    <Textblob>0.34</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Macht Spaß beim zuschauen  #UCLfinal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>WAS EIN TOR! Sowas schießt du auch nur einmal im Leben! :O #UCLfinal</Text>
+    <Textblob>-0.175</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Alter was ein geiles Tor, geiler Scheiß Mandzu!!!!  #JUVRMA #UCLfinal #ForzaJuve</Text>
+    <Textblob>-0.3333333333</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Geiles Spiel - jetzt schon  #UCLfinal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Überragend gemacht von Mandzu! #JUVRMA 1:1 #UCLfinal</Text>
+    <Textblob>0.3333333333</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Was eine geile Kiste von Mandzukic #UCLfinal</Text>
+    <Textblob>0.35</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>#UCLfinal was für ein Traumtor</Text>
+    <Textblob>0</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Mandzu was ein Tor  #JUVRMA #UCLfinal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>WAS. FÜR. EIN. TOR. #UCLfinal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>So geil der Ronaldo! #UCLfinal #JUVRMA</Text>
+    <Textblob>0.2333333333</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Eigentlich ist mir total egal, wer heute gewinnt, aber #Buffon würde ich es echt gönnen  #UCLfinal #JUVRMA</Text>
+    <Textblob>0.5</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Jeder der hier Buffon nicht den Titel gönnt, schmeißt auch kleine Hundenwelpen in den See. #JUVRMA #UCLfinal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Die lilafarbenen Trikots von Real sind so hässlich, dass sie den Titel nicht verdienen. #UCLFinal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Showtime!  Gigi, hol dir diesen verdammten Titel. Keiner hat es mehr verdient, nach all diesen Jahren, als du! #UCLFinal #Cardiff #JUVRMA</Text>
+    <Textblob>0</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Da denkt man Helene Fischer beim DFB Pokalfinale war mies und dann kommen die Black Eyed Peas und toppen das nochmal #UCLfinal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>#UCLfinal gucken und #Buffon die Daumen drücken. Hat es verdient! Hashtag #JUVRMA</Text>
+    <Textblob>-0.25</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Die CL gewinnt man nicht mal eben so zwei mal hintereinander. Real Madrid ist und bleibt der Big Player im internationalen Fußball. #JUVRMA</Text>
+    <Textblob>0.25</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Echt hart anzusehen, dass der Fliegenfänger Keylor Navas 2x die CL gewonnen hat und Gigi in all den Jahren gar nicht.. #UCLfinal #JUVRMA</Text>
+    <Textblob>0.2833333333</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>heftig..mir tut gigi einfach nur leid das hat er nicht verdient #JUVRMA</Text>
+    <Textblob>0.35</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Man kann von @Cristiano halten was man will, aber es gab gefühlt noch nie einen Sportler, der sich so sehr dem Erfolg verschrieb... #JUVRMA</Text>
+    <Textblob>0</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Starkes Spiel von beiden, aber am Ende kann nur einer gewinnen  schade für Juventus aber kopf hoch und weiter geht&apos;s #JUVRMA</Text>
+    <Textblob>0.175</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Ok, er ist ein Nimmersatt! Nein, nicht nur @Cristiano auch @ToniKroos. Dritter Championsleague Titel. Fette Gratulation! #JUVRMA Schade Gigi</Text>
+    <Textblob>-0.05</Textblob>
+    <Manuell>positiv</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Krass, wie die ARD die Stadionmikros runterdreht, damit man das Pfeifkonzert nicht hört. #DFBPokal #SGEBVB</Text>
+    <Textblob>0.2333333333</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>So laut haben sich die Fans nicht mal bei der Mannschaftsaufstellung gegenseitig ausgepfiffen. #HeleneFischer #DFBPokal</Text>
+    <Textblob>0</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Wie das Playback nicht mal die Pfiffe übertönt, so schön. #SGEBVB</Text>
+    <Textblob>0.3333333333</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+  <Tweet>
+    <Text>Eins ist klar, solche Halbzeitshows wie von Helene Fischer braucht keiner im Fußball! #DFBPokal #SGEBVB #Fischer</Text>
+    <Textblob>0.3333333333</Textblob>
+    <Manuell>negativ</Manuell>
+    <Ironie>FALSE</Ironie>
+  </Tweet>
+</root>

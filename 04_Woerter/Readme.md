@@ -1,1 +1,3 @@
-Material für Kapitel 4: W¨orter in der Sentiment-Analyse
+Material für Kapitel 4: Wörter in der Sentiment-Analyse
+
+- word2vec.py: Mit Python 3 kompatible Version des Codes von Nathan Rooy.

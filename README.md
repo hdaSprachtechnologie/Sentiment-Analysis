@@ -1,6 +1,5 @@
 # Sentiment-Analysis
 Ressources for Sentiment Analysis of German Language
 
-Ironie-Korpus: A text corpus of ironical tweets in the soccer domain
-
-Opinion Spam Corpus: A text corpus of opinion spam in Amazon reviews
+Organized in folders parallel to chapters of the book:
+Siegel, Melanie and Alexa, Melpomeni (2020): Sentiment-Analyse deutschsprachiger Meinungsäußerungen. Springer Fachmedien, Wiesbaden.
